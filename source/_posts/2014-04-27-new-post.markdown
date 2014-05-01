@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Github_pages搭建Octopress"
+date: 2014-04-27 14:16:08 +0800
+comments: true
+categories: 
+---
+
+##欢迎访问Bourne的博客
+
+>虽然之前搭建了一个wordpress博客，最近也试了Ghost博客，但是看见Github支持Github_pages很方便，也就捣鼓一下搭建一个。
+>方便学习一下Markdown语法以及用此blog来记录一些日常遇到的技术问题和心得。
+
+下面简单介绍下搭建过程：
+
+1.  安装Ruby和Ruby devtools
+
+2.  git clone Octopress下来
+
+3.  安装依赖的packages
+
+4.  在Github上新建一个和用户名同名的repo
+
+5.  deploy到Github pages
+
+
+
+
+欢迎交流

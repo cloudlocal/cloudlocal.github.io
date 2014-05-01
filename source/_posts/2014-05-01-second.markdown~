@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Qpython APP"
+date: 2014-05-01 22:36:01 +0800
+comments: true
+categories: 
+---
+##欢迎访问Bourne的博客
+这次主要是介绍一下Qpython这个APP，可以在谷歌官方市场中找到，它提供了一个简便的编辑界面,还提供了很多库，包括django等。
+
+另外顺带一提使用vim配置语法高亮后写python也挺不错的。
+继续努力学习python语法ing!
+看看markdown语法能否高亮？
+
+
+```python
+
+def helloworld():
+	nihao
+```
